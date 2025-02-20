@@ -1,0 +1,17 @@
+body {
+    font-family: Roboto;
+}
+.freeCodeCamp-text {
+    font-weight: bold;
+    font-size: 20px;
+}
+.freeCodeCamp-span {
+    color: grey;
+}
+.description-text {
+    font-size: 20px;
+    width: 700px;
+}
+.top-skill-text {
+    font-size: 20px;
+}
